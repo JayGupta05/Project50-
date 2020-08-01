@@ -1,0 +1,24 @@
+body{
+    border:solid;
+    background-color: aqua;
+}
+.header{
+    background-color: rgb(43, 226, 150);
+    justify-content: space-between;
+    display: flex;
+}
+.facts{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: chartreuse;
+}
+.Imgs{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+p,h2{
+    text-align: center;
+    color: cornsilk;
+}
